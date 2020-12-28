@@ -1,0 +1,14 @@
+[
+  {
+    "table_name": "bassins.csv",
+    "names_list": ["libelle", "surface", "volume", "profondeur", "type_aliment"]
+  },
+  {
+    "table_name": "croissance.csv",
+    "names_list": ["espece", "semaine", "quantite_lb", "pc_aliment", "grpoisson"]
+  },
+  {
+    "table_name": "especes.csv",
+    "names_list": ["espece","libelle"]
+  }
+]
